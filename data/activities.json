@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "categories": [
+    {
+      "id": "speech",
+      "worker": [
+        "Pojmenovávejte věci kolem.",
+        "Čekejte na reakci dítěte.",
+        "Používejte jednoduché věty."
+      ],
+      "parent": [
+        "Popisujte, co děláte.",
+        "Pojmenujte věci, které dítě chce.",
+        "Chvalte pokusy o komunikaci."
+      ]
+    },
+    {
+      "id": "social",
+      "worker": [
+        "Podávejte si předměty.",
+        "Sdílejte pozornost.",
+        "Sedněte si vedle dítěte."
+      ],
+      "parent": [
+        "Buďte blízko dítěti.",
+        "Sdílejte jednoduché aktivity."
+      ]
+    },
+    {
+      "id": "emotion",
+      "worker": [
+        "Používejte klidný hlas.",
+        "Chvalte malé úspěchy."
+      ],
+      "parent": [
+        "Reagujte klidně.",
+        "Podporujte dítě pozitivně."
+      ]
+    },
+    {
+      "id": "cognitive",
+      "worker": [
+        "Ukazujte jednoduché činnosti.",
+        "Nechte dítě zkusit."
+      ],
+      "parent": [
+        "Zapojte dítě do běžných aktivit."
+      ]
+    },
+    {
+      "id": "motor",
+      "worker": [
+        "Kreslení.",
+        "Stavění věcí."
+      ],
+      "parent": [
+        "Manipulace s běžnými předměty."
+      ]
+    },
+    {
+      "id": "self",
+      "worker": [
+        "Nechte dítě zkusit samo."
+      ],
+      "parent": [
+        "Podporujte samostatnost."
+      ]
+    }
+  ]
+}

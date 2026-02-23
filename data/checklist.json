@@ -1,0 +1,262 @@
+{
+  "version": "2.0",
+  "age_bands": {
+    "3-4": [
+      {
+        "id": "hruba_motorika",
+        "title": "Hrubá motorika",
+        "category_weight": 1.0,
+        "items": [
+          { "id": "hm34_01", "text": "Překročí malou překážku" },
+          { "id": "hm34_02", "text": "Zvládá základní koordinaci a držení rovnováhy" },
+          { "id": "hm34_03", "text": "Dokáže chodit po schodech nahoru a dolů a střídá u toho nohy" },
+          { "id": "hm34_04", "text": "Skáče snožmo" },
+          { "id": "hm34_05", "text": "Chytí míč do ohnutých paží" },
+          { "id": "hm34_06", "text": "Vydrží stát na jedné noze po dobu 3 sekund" },
+          { "id": "hm34_07", "text": "Poskoky na jedné noze" },
+          { "id": "hm34_08", "text": "Chůze po zvýšeném terénu" }
+        ]
+      },
+      {
+        "id": "jemna_motorika",
+        "title": "Jemná motorika",
+        "category_weight": 1.0,
+        "items": [
+          { "id": "jm34_01", "text": "Postaví stavbu z 10 kostek" },
+          { "id": "jm34_02", "text": "Navléká velké korále na provázek" },
+          { "id": "jm34_03", "text": "Ovládá vkládačky" },
+          { "id": "jm34_04", "text": "Pracuje s modelínou (vyválí váleček, kouličku)" },
+          { "id": "jm34_05", "text": "Stříhá po rovné linii" },
+          { "id": "jm34_06", "text": "Umí si obléci a svléci bundu" },
+          { "id": "jm34_07", "text": "Umí si obout boty" },
+          { "id": "jm34_08", "text": "Listuje v knize (otáčí listy, i když více najednou)" }
+        ]
+      },
+      {
+        "id": "grafomotorika",
+        "title": "Grafomotorika",
+        "category_weight": 1.0,
+        "items": [
+          { "id": "gm34_01", "text": "Snaží se uchopit tužku" },
+          { "id": "gm34_02", "text": "Namaluje kruh, svislou a vodorovnou čáru" },
+          { "id": "gm34_03", "text": "Kreslí jednoduchého hlavonožce" },
+          { "id": "gm34_04", "text": "Napodobuje vybarvování" }
+        ]
+      },
+      {
+        "id": "smyslove_vnimani",
+        "title": "Smyslové vnímání a paměť",
+        "category_weight": 1.1,
+        "items": [
+          { "id": "sv34_01", "text": "Rozpoznává a přiřazuje identickou barvu" },
+          { "id": "sv34_02", "text": "Na pokyn ukáže barvu" },
+          { "id": "sv34_03", "text": "Přiřazuje identické předměty (2 stejné obrázky)" },
+          { "id": "sv34_04", "text": "Vyhledá známý předmět na obrázku" },
+          { "id": "sv34_05", "text": "Vyhledá známý předmět na obrázku dle předlohy" },
+          { "id": "sv34_06", "text": "Odliší tvarem jiný obrázek v řadě" },
+          { "id": "sv34_07", "text": "Odliší velikostí jiný obrázek v řadě" },
+          { "id": "sv34_08", "text": "Pozná hmatem odlišný předmět" },
+          { "id": "sv34_09", "text": "Rozliší 3 různé zdroje zvuku" },
+          { "id": "sv34_10", "text": "Složí obrázek ze dvou až 4 částí" },
+          { "id": "sv34_11", "text": "Pamatuje si 2 až 3 předměty" },
+          { "id": "sv34_12", "text": "Rozpozná běžné zvuky v okolí" },
+          { "id": "sv34_13", "text": "Rozpozná známou melodii" },
+          { "id": "sv34_14", "text": "Napodobí roztleskávání na slabiky" },
+          { "id": "sv34_15", "text": "Zopakuje 3 související slova" }
+        ]
+      },
+      {
+        "id": "vnimani_prostoru",
+        "title": "Vnímání prostoru a času",
+        "category_weight": 1.0,
+        "items": [
+          { "id": "vp34_01", "text": "Ukáže nahoře, dole" },
+          { "id": "vp34_02", "text": "Rozumí základním vazbám na, do, v" },
+          { "id": "vp34_03", "text": "Chápe jednoduché protiklady" }
+        ]
+      },
+      {
+        "id": "rec",
+        "title": "Řeč",
+        "category_weight": 1.3,
+        "items": [
+          { "id": "r34_01", "text": "Řekne svoje jméno, jméno maminky" },
+          { "id": "r34_02", "text": "Klade otázky Co je to?" },
+          { "id": "r34_03", "text": "Klade otázky: proč?, co děláš?, kdy?, kde?" },
+          { "id": "r34_04", "text": "Řekne, co je na obrázku" },
+          { "id": "r34_05", "text": "Vysloví žádost o pomoc" },
+          { "id": "r34_06", "text": "Rozlišuje mezi já, ty, moje, tvoje" },
+          { "id": "r34_07", "text": "Používá cca 10 slov ve správném kontextu" },
+          { "id": "r34_08", "text": "Mluví ve větách" },
+          { "id": "r34_09", "text": "Řekne nebo zopakuje jednoduchou říkánku" }
+        ]
+      },
+      {
+        "id": "matematika",
+        "title": "Matematické představy",
+        "category_weight": 0.9,
+        "items": [
+          { "id": "ma34_01", "text": "Počítání do 3" },
+          { "id": "ma34_02", "text": "Rozliší hodně, málo, malý, velký, stejný, jiný" },
+          { "id": "ma34_03", "text": "Pozná kulatý tvar" },
+          { "id": "ma34_04", "text": "Učí se rozlišit čtverec, trojúhelník, kruh" }
+        ]
+      },
+      {
+        "id": "hra_imitace",
+        "title": "Hra a imitace",
+        "category_weight": 1.0,
+        "items": [
+          { "id": "hi34_01", "text": "Napodobuje jednoduché činnosti (vozí mimi, nakládá auto, vaří kávičku)" },
+          { "id": "hi34_02", "text": "Napodobuje hru vrstevníků" }
+        ]
+      },
+      {
+        "id": "socialni",
+        "title": "Sociální dovednosti",
+        "category_weight": 1.2,
+        "items": [
+          { "id": "so34_01", "text": "Vydrží na klubu bez maminky" },
+          { "id": "so34_02", "text": "Umí se vyčůrat, vykakat" },
+          { "id": "so34_03", "text": "Umí si říci, že chce na WC" },
+          { "id": "so34_04", "text": "Chápe základní pravidla (neubližuje dětem)" },
+          { "id": "so34_05", "text": "Reaguje na dospělého, když požaduje pravidlo" },
+          { "id": "so34_06", "text": "Umí se střídat s ostatními dětmi (např. u houpačky)" },
+          { "id": "so34_07", "text": "Zajímá se o ostatní děti" },
+          { "id": "so34_08", "text": "Říká zdvořilostní slova (prosím, děkuji)" },
+          { "id": "so34_09", "text": "Umí krátkodobě zapůjčit hračku" },
+          { "id": "so34_10", "text": "Zapojuje se do skupinových aktivit" }
+        ]
+      }
+    ],
+    "5-6": [
+      {
+        "id": "hruba_motorika",
+        "title": "Hrubá motorika",
+        "category_weight": 1.0,
+        "items": [
+          { "id": "hm56_01", "text": "Dokáže chodit po schodech dolů a střídá u toho nohy" },
+          { "id": "hm56_02", "text": "Přeskočí nízkou překážku" },
+          { "id": "hm56_03", "text": "Stoj na špičkách s otevřenýma očima" },
+          { "id": "hm56_04", "text": "Chytí míč" },
+          { "id": "hm56_05", "text": "Vydrží stát na jedné noze po dobu 5 sekund" },
+          { "id": "hm56_06", "text": "Doskáče po jedné noze na místo" }
+        ]
+      },
+      {
+        "id": "jemna_motorika",
+        "title": "Jemná motorika",
+        "category_weight": 1.0,
+        "items": [
+          { "id": "jm56_01", "text": "Postaví stavbu z 10 kostek" },
+          { "id": "jm56_02", "text": "Navléká drobné korálky na provázek" },
+          { "id": "jm56_03", "text": "Skládá jednoduché puzzle (až 12 kusů)" },
+          { "id": "jm56_04", "text": "Pracuje s modelínou (modeluje dle zadání)" },
+          { "id": "jm56_05", "text": "Stříhá po rovné čáře, vystřihne kruh" },
+          { "id": "jm56_06", "text": "Dotkne se bříškem každého prstu palce" },
+          { "id": "jm56_07", "text": "Umí si obléci a svléci bundu" },
+          { "id": "jm56_08", "text": "Umí si samostatně obout boty" }
+        ]
+      },
+      {
+        "id": "grafomotorika",
+        "title": "Grafomotorika",
+        "category_weight": 1.0,
+        "items": [
+          { "id": "gm56_01", "text": "Tužkový úchop" },
+          { "id": "gm56_02", "text": "Namaluje kruh, vlnovku, šikmou čáru" },
+          { "id": "gm56_03", "text": "Kreslí jednoduchého hlavonožce (hlava, trup, končetiny)" },
+          { "id": "gm56_04", "text": "Vybarvuje do obrysu" }
+        ]
+      },
+      {
+        "id": "smyslove_vnimani",
+        "title": "Smyslové vnímání a paměť",
+        "category_weight": 1.1,
+        "items": [
+          { "id": "sv56_01", "text": "Rozpoznává a pojmenovává základní barvy" },
+          { "id": "sv56_02", "text": "Přiřazuje odstíny barev" },
+          { "id": "sv56_03", "text": "Přiřazuje geometrické tvary" },
+          { "id": "sv56_04", "text": "Odliší obrázek z dvojice obrázků lišících se detailem" },
+          { "id": "sv56_05", "text": "Odliší tvarem jiný obrázek v řadě" },
+          { "id": "sv56_06", "text": "Odliší velikostí jiný obrázek v řadě" },
+          { "id": "sv56_07", "text": "Vyhledá známý předmět na obrázku" },
+          { "id": "sv56_08", "text": "Seřadí 2 obrázky dle posloupnosti" },
+          { "id": "sv56_09", "text": "Přiřadí obrázky k piktogramům" },
+          { "id": "sv56_10", "text": "Doplní chybějící část obrázku" },
+          { "id": "sv56_11", "text": "Otočí obrázek dle předlohy správným směrem" },
+          { "id": "sv56_12", "text": "Pozná hmatem odlišný předmět" },
+          { "id": "sv56_13", "text": "Složí obrázek ze 4 částí" },
+          { "id": "sv56_14", "text": "Pamatuje si 3 předměty z 6" },
+          { "id": "sv56_15", "text": "Rozliší změnu rytmu" },
+          { "id": "sv56_16", "text": "Rozpozná známou melodii" },
+          { "id": "sv56_17", "text": "Napodobí roztleskávání na slabiky" }
+        ]
+      },
+      {
+        "id": "vnimani_prostoru",
+        "title": "Vnímání prostoru a času",
+        "category_weight": 1.0,
+        "items": [
+          { "id": "vp56_01", "text": "Ukáže nahoře, dole" },
+          { "id": "vp56_02", "text": "Ukáže vlevo, vpravo na těle" },
+          { "id": "vp56_03", "text": "Používá správně na, do, v, uprostřed, daleko, blízko, první, poslední" },
+          { "id": "vp56_04", "text": "Poslouchá příběh" },
+          { "id": "vp56_05", "text": "Přiřadí činnosti obvyklé pro ráno, poledne, večer" }
+        ]
+      },
+      {
+        "id": "rec",
+        "title": "Řeč",
+        "category_weight": 1.3,
+        "items": [
+          { "id": "r56_01", "text": "Zopakuje komplexní větu: Máma jede autem" },
+          { "id": "r56_02", "text": "Zopakuje řadu 4 čísel" },
+          { "id": "r56_03", "text": "Mluví ve větách (4-5 slov)" },
+          { "id": "r56_04", "text": "Klade otázky: proč?, co děláš?, kdy?, kde?" },
+          { "id": "r56_05", "text": "Odpoví na otázky týkající se času: Kdy snídáš?" },
+          { "id": "r56_06", "text": "Vypráví dle obrázku" },
+          { "id": "r56_07", "text": "Řekne nebo zopakuje jednoduchou říkánku" }
+        ]
+      },
+      {
+        "id": "matematika",
+        "title": "Matematické představy",
+        "category_weight": 0.9,
+        "items": [
+          { "id": "ma56_01", "text": "Pojmenuje malý, menší, nejmenší" },
+          { "id": "ma56_02", "text": "Seřadí 5 předmětů dle velikosti" },
+          { "id": "ma56_03", "text": "Pozná trojúhelník" },
+          { "id": "ma56_04", "text": "Rozlišuje tvary" },
+          { "id": "ma56_05", "text": "Jmenuje číselnou řadu do čtyř" }
+        ]
+      },
+      {
+        "id": "hra_imitace",
+        "title": "Hra, imitace, sociální vývoj",
+        "category_weight": 1.0,
+        "items": [
+          { "id": "hi56_01", "text": "Napodobuje jednoduché činnosti (vozí mimi, nakládá auto, vaří kávičku)" },
+          { "id": "hi56_02", "text": "Napodobuje hru vrstevníků" },
+          { "id": "hi56_03", "text": "Hraje jednoduché společenské hry (pexeso, Člověče nezlob se)" }
+        ]
+      },
+      {
+        "id": "socialni",
+        "title": "Sociální dovednosti",
+        "category_weight": 1.2,
+        "items": [
+          { "id": "so56_01", "text": "Umí si říci, že chce na WC a je na něm samostatný" },
+          { "id": "so56_02", "text": "Chápe základní pravidla (neubližuje dětem)" },
+          { "id": "so56_03", "text": "Na veřejnosti se chová většinou sociálně přiměřeně" },
+          { "id": "so56_04", "text": "Reaguje na dospělého, když požaduje pravidlo" },
+          { "id": "so56_05", "text": "Pozdraví dospělého" },
+          { "id": "so56_06", "text": "Umí se střídat s ostatními dětmi (např. u houpačky)" },
+          { "id": "so56_07", "text": "Říká zdvořilostní slova (prosím, děkuji)" },
+          { "id": "so56_08", "text": "Spolupracuje ve skupině, pomáhá" },
+          { "id": "so56_09", "text": "Domluví se přiměřeně ve skupině dětí (vyjadřuje pocity, nápady)" }
+        ]
+      }
+    ]
+  }
+}
